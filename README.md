@@ -12,9 +12,11 @@
 ## Prepared and maintained by [Amit Shekhar](https://github.com/amitshekhariitbhu) who is having experience of taking interviews of many Android developers and cracking interviews of top companies.
 
 <p align="center">
+
 <a href="https://mindorks.com/android-app-development-online-course" target="_blank">
   <img alt="Android Roadmap" src="https://raw.githubusercontent.com/MindorksOpenSource/android-interview-questions/master/assets/roadmap.png">
-</a>	
+</a>
+
 </p>
 
 ## A complete guide for learning Android Development - [Check here](https://mindorks.com/android-app-development-online-course)
